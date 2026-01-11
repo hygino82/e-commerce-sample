@@ -1,4 +1,4 @@
-package br.dev.hygino.model;
+package br.dev.hygino.models;
 
 import java.math.BigDecimal;
 import java.util.List;
